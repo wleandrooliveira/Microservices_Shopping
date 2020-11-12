@@ -1,0 +1,5 @@
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Common\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBusRabbitMQ.deps.json
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Common\EventBusRabbitMQ\bin\Debug\netstandard2.0\EventBusRabbitMQ.dll
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Common\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.csprojAssemblyReference.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Common\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Common\EventBusRabbitMQ\obj\Debug\netstandard2.0\EventBusRabbitMQ.AssemblyInfo.cs

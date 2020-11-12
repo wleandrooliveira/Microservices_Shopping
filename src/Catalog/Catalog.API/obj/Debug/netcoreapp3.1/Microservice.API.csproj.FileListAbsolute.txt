@@ -1,0 +1,17 @@
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\Microservice.API.exe
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\obj\Debug\netcoreapp3.1\Microservice.API.csprojAssemblyReference.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\obj\Debug\netcoreapp3.1\Microservice.API.AssemblyInfoInputs.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\obj\Debug\netcoreapp3.1\Microservice.API.AssemblyInfo.cs
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\obj\Debug\netcoreapp3.1\Microservice.API.RazorTargetAssemblyInfo.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\obj\Debug\netcoreapp3.1\staticwebassets\Microservice.API.StaticWebAssets.Manifest.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\obj\Debug\netcoreapp3.1\staticwebassets\Microservice.API.StaticWebAssets.xml
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\obj\Debug\netcoreapp3.1\Microservice.API.csproj.CopyComplete
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\LEARN\MICROSERVICES\MicroservicesApp\Microservice.API\bin\Debug\netcoreapp3.1\SharpCompress.dll
