@@ -1,0 +1,15 @@
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\bin\Debug\netcoreapp3.1\Ordering.Infrastruture.deps.json
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\bin\Debug\netcoreapp3.1\Ordering.Infrastruture.dll
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\obj\Debug\netcoreapp3.1\Ordering.Infrastruture.AssemblyInfoInputs.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\obj\Debug\netcoreapp3.1\Ordering.Infrastruture.AssemblyInfo.cs
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\obj\Debug\netcoreapp3.1\Ordering.Infrastruture.csprojAssemblyReference.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\bin\Debug\netcoreapp3.1\Ordering.Infrastruture.runtimeconfig.json
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\bin\Debug\netcoreapp3.1\Ordering.Infrastruture.runtimeconfig.dev.json
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\obj\Debug\netcoreapp3.1\Ordering.Infrastruture.genruntimeconfig.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\bin\Debug\netcoreapp3.1\Ordering.Infrastruture.pdb
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\obj\Debug\netcoreapp3.1\Ordering.Infrastruture.csproj.CoreCompileInputs.cache
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\obj\Debug\netcoreapp3.1\Ordering.Infrastruture.csproj.CopyComplete
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\obj\Debug\netcoreapp3.1\Ordering.Infrastruture.dll
+C:\LEARN\MICROSERVICES\MicroservicesApp\src\Ordering\Ordering.Infrastruture\obj\Debug\netcoreapp3.1\Ordering.Infrastruture.pdb
